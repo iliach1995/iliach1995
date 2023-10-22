@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilia Chiniforooshan </h1>
-<h3 align="center">Master's student in Data Science [ML/DS] & developer. Experienced in deep learning, speech technologies, NLP and MLOps.</h3>
+<h3 align="center">Master's student at Northeastern University in Data Science [ML/DS] & developer. Experienced in deep learning, speech technologies, NLP and MLOps.</h3>
 
 - 🔭 I am really passionate about Programming, Computer Vision, Machine Learning, Deep Learning, Automatic Speech Recognition (ASR), Natural Language Processing (NLP), Machine Learning Operations, and software development.
 
